@@ -1,32 +1,6 @@
 # JS Arrays
 
-## Introduction
-
-> ***Note:*** _This can be a pair programming activity or done independently._
-
-Today you have learnt how to manipulate and create Arrays so you are ready to solve a lot of new problems. Today's lab will have lots of exercises that are increasingly difficult.
-
-Ready?
-
-## Requirements
-
-- [Learn how to fork this repo](https://guides.github.com/activities/forking/)
-- Clone this repo into your `code/labs` folder
-
-## Starter code
-
-You have to solve the different problems in the `starter-code/index.js` file. This Javascript file is included in the `starter-code/index.html`. 
-
-You can easily open the HTML in Chrome, by typing in your terminal:
- 
-To test that it works, click on the Live Server button that is located on the bottom-right corner of VSCode:
-
-After you open it, you can open the `Chrome Developer Tools` and see the `console.log`  of your exercises.
-
-
 ## **RULES**
-
- - All your functions have to be [pure](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976)
  - No more than 10 lines per function
 
 
